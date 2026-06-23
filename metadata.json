@@ -1,0 +1,6 @@
+{
+  "name": "NEXTPredict Banner Generator",
+  "description": "Create 'I'm attending' artwork for the NEXTPredict Summit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
